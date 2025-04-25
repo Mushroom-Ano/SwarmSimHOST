@@ -2,6 +2,12 @@
 
 An educational simulation game developed in Unity to visually demonstrate the principles of **Swarm Intelligence**, with a focus on **Ant Colony Optimisation (ACO)**. This project gamifies ACO algorithms to help students and educators understand emergent behavior, pheromone communication, and decentralized decision-making through an interactive, hands-on experience.
 
+## 🧪 How to Run
+
+You can play the simulation directly in your browser via GitHub Pages:
+
+👉 [**Play Swarm Sim Now**](https://mushroom-ano.github.io/SwarmSimHOST/)  
+
 ## 🎯 Project Overview
 
 This project aims to teach abstract AI concepts using simulation-based learning. The ant simulation models:
@@ -37,19 +43,6 @@ The goal: make swarm intelligence accessible, engaging, and intuitive for AI lea
 > - Ant behavior in motion
 > - Pheromone trails
 > - Parameter control panel
-
-## 🧪 How to Run
-
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/YourUsername/SwarmSim.git
-   cd SwarmSim
-
-    Open in Unity (2021.3 LTS or later recommended)
-
-    Open the MainScene.unity located in Assets/Scenes/
-
-    Press Play to run the simulation.
 
 ⚙️ Editable Parameters
 
